@@ -1,0 +1,17 @@
+.input{
+    height:20px;
+    width:20px;
+    margin:7px;
+}
+
+.input:checked+label{
+    text-decoration-line: line-through;
+}
+
+label{
+    color:darkslateblue;
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-weight: 700;
+    font-size: larger;
+}
